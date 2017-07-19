@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Hengshuai Yao
 email: 
-description: "Musings of a Computer Scientist."
+description: "Not a scientist yet."
 baseurl: ""
 url: "http://karpathy.github.io"
 twitter_username: karpathy
-github_username:  karpathy
+github_username:  hengshuaiyao
 
 # Build settings
 markdown: kramdown
